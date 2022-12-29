@@ -1,4 +1,4 @@
-# Encuesta para profesionales de tecnológica, El Salvador 2023
+# Encuesta para profesionales de tecnológica, El Salvador 2022-2023
 
 ## https://forms.office.com/r/e88iKeEkLk
 
