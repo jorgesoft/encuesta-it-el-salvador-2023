@@ -4,8 +4,15 @@ Encuesta basada en Stack Overflow Developer Survey 2022, bajo licencia de Open D
 
 Ninguna pregunta hace referencia a información personal como nombres, email o numero telefónico.  
 
+Lista de archivos:
+
+- Encuesta para profesionales de tecnológica, El Salvador 2022-2023.xlsx
+- resultados_totales.json
+- resultados.pdf
+
 ## License
 
 This Encuesta para profesionales en Tecnología | El Salvador 2022-2023 is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+
 
 
